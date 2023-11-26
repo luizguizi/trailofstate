@@ -7,6 +7,14 @@ body {
     width: 100%;
     height: 100%;
 }
+@font-face {
+    font-family: "Bebas Neue";
+    src: url(./BebasNeue-Regular.otf);
+}
+@font-face {
+    font-family: "Social Shapes" ;
+    src: url(./social_shapes.ttf);
+}
 header {
     height: 100px;
     background-image: url(../img/backgound_header.png);
